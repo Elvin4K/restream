@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640028,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://stream-cdn-iad3.vaughnsoft.net/play/live_siriustvfhd.flv
