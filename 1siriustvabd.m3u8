@@ -1,3 +1,10 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2100000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1920x1080
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1280x720
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,CODECS="mp4a.40.2,avc1.4D4028",RESOLUTION=854x480
+https://a8.radyotelekom.com.tr:3513/hybrid/play.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=550000,CODECS="mp4a.40.2,avc1.4D401f",RESOLUTION=640x360
 https://stream-cdn-iad3.vaughnsoft.net/play/live_siriustvfhd.flv
