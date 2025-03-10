@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401e", video/mp4; codecs="avc1.4d401e", video/mp4; codecs="avc1.4d401e", video/mp4; codecs="avc1.4d401f", video/mp4; codecs="avc1.4d401f", audio/mp4; codecs="mp4a.40.5", video/mp4; codecs="avc1.42E01E mp4a.40.2", video/mp4; codecs="avc1.4D401E mp4a.40.2", video/mp4; codecs="avc1.4D401F mp4a.40.2", video/mp4; codecs="avc1.640032 mp4a.40.2", video/mp4; codecs="avc1.640033 mp4a.40.2",BANDWIDTH=5060000,RESOLUTION=1920x1080
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640028,mp4a.40.2,mp4a.40.5",BANDWIDTH=5060000,RESOLUTION=1920x1080,AUDIO="audio96000aac",FRAME-RATE=30.000
 https://stream-cdn-iad3.vaughnsoft.net/play/live_mega20.flv
