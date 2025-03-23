@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640028,mp4a.40.2",BANDWIDTH=5060000,RESOLUTION=1920x1080
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3
+http://185.57.68.33:8091/232/index.m3u8
