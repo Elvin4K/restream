@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640028,mp4a.40.2",BANDWIDTH=5060000,RESOLUTION=1920x1080
 #http://195.9.195.3:8080/hls/211270.m3u8
-http://185.57.68.33:8091/232/index.m3u8
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
