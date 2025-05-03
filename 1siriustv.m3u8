@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.77.30,mp4a.40.2",BANDWIDTH=8294400,RESOLUTION=1920x1080
-http://195.9.195.3:8080/hls/211270.m3u8
-#https://vod-playlist-cache.nuum.ru/nuum-vod-production/dd9dd838-73c7-478a-4161-a092d8a8912d/index-f3-v1.m3u8
+#http://195.9.195.3:8080/hls/211270.m3u8
+https://vod-playlist-cache.nuum.ru/nuum-vod-production/dd9dd838-73c7-478a-4161-a092d8a8912d/index-f3-v1.m3u8
