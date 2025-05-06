@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640028,mp4a.40.2",BANDWIDTH=7168000,RESOLUTION=1920x1080
-https://tx.flv.nimo.tv/live/su2029521148144r28855dfeee3bafd9006a17ea61fb9f10.flv?wsSecret=68ac58931204d13bfaeb01afff75397a&wsTime=681bacb3&seqid=3776079087366&ctype=nimo_web&ver=1&appid=81&tp=1746557747641&needwm=0&dMod=mseh-0&sdkPcdn=1_1&u=2031034626184&t=100&sv=2412091148&sdk_sid=1746557939217&a_block=0
+#http://195.9.195.3:8080/hls/211270.m3u8
+https://vod-playlist-cache.nuum.ru/nuum-vod-production/dd9dd838-73c7-478a-4161-a092d8a8912d/index-f3-v1.m3u8
