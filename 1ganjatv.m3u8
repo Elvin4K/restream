@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.640028,mp4a.40.2",BANDWIDTH=8192000,RESOLUTION=1920x1080
 #http://195.9.195.3:8080/hls/215207.m3u8
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_source/playlist.m3u8
+http://195.9.195.3:8080/hls/183946.m3u8
