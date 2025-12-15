@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=800000,AVERAGE-BANDWIDTH=400000,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.640028,mp4a.40.2"
-https://fl1001.bozztv.com/ushba44/index.m3u8
+#EXT-X-START:TIME-OFFSET=5,PRECISE=YES
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AVERAGE-BANDWIDTH=3000000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio"
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1765769344/ei/ICw_afvfIK_t6dsP0dSTkQ4/ip/45.147.47.3/id/7--D-wer-r0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-vgqsrnzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AYUSA3DYr5SulobmjBOI30iBijSlpGLozi_Onp3gZYZY33x3e6KpPXVPevNM6U9dWAWp6x3sWDxaN2lz/spc/wH4Qq5JFcdBX-74Ayfal/vprv/1/playlist_type/DVR/cps/1/met/1765747745,/mh/NK/mip/135.232.177.162/mm/44/mn/sn-vgqsrnzs/ms/lva/mv/u/mvi/5/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565682,51580968/mt/1765747046/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgPq7-Ef0Wb4EUA5QX2fNNSlyQnX8v0fYpmc-3hXo2KN8CIQDizRlivlt-9R82sQQAxHAzlKbXEd_53o36CwftfCc2Aw%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIHgGH7gQoIXRe19RC_hkwV_R3o4j7bTa7ONcK6bRbsfAiEAjTrKX4JKAet-ijZ2lgNima0E2dudlq4AniM_FhVxcA8%3D/playlist/index.m3u8
