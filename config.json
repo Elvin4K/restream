@@ -1,0 +1,19 @@
+{
+    "output": {
+        "folder": "playlist",
+        "bestFolder": "Clap4k",
+        "masterFolder": "master"
+    },
+    "channels": [
+        {
+            "name": "Sirius TV [Kick]",
+            "slug": "3siriushd.kick3",
+            "url": "https://kick.com/sirius_kanal_adin"
+        },
+        {
+            "name": "Gence TV [Kick]",
+            "slug": "gence.kick",
+            "url": "https://kick.com/gence_kanal_adin"
+        }
+    ]
+}
