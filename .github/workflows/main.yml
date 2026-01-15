@@ -1,8 +1,8 @@
-name: Kick Link Guncelleyici
+name: Clap4k Guncelleyici
 on:
   schedule:
-    - cron: '*/15 * * * *' #
-  workflow_dispatch: # Manuel başlatma butonu
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
