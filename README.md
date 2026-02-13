@@ -14,8 +14,9 @@ Senin sistem verilerine ve OBS ayarlarına dayanarak bu teknik detayları ekleme
 Çözünürlük: 1920x1080 (Full HD)
 
 Kare Hızı: 25 FPS (Sinematik akış)
+Kare Hızı: 60 FPS (Akıcı Gerçeklik)
 
-Video Kodlayıcı: NVIDIA NVENC H.264 (Yüksek Kalite P5)
+Video Kodlayıcı: NVIDIA NVENC H.264 (Yüksek Kalite)
 
 Ses: FFmpeg AAC
 
