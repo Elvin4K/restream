@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.640028,mp4a.40.2",NAME="1080p SiriusHD"
-https://s.catcast.tv/content/48023/index.m3u8?token=49cca5ee2ece76e89ce0e18abb3c9bd9
+https://s.catcast.tv/content/48023/index.m3u8?token=8a197ab1b7c26f1e80313bf7fad5bd6e
