@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 
 ESKI TİP UYDU ALICILARI İCİN
 http://streamsat.siriushdtv-onlineclap.workers.dev/live.m3u8
+
 http://streamsat.siriushdtv-onlineclap.workers.dev/live.ts
 
 🛠️ Yayın Teknik Özellikleri
