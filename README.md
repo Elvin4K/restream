@@ -6,7 +6,12 @@ Bu repository, Sirius HD kanalının dünyaya açık, kesintisiz ve yüksek kali
 🔗 Hızlı Erişim (M3U8)
 Yayını VLC, PotPlayer veya diğer IPTV oynatıcılarda açmak için aşağıdaki direkt linki kullanabilirsiniz: 
 
+GÜNCEL ANA LİNK
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+
+ESKI TİP UYDU ALICILARI İCİN
+http://streamsat.siriushdtv-onlineclap.workers.dev/live.m3u8
+http://streamsat.siriushdtv-onlineclap.workers.dev/live.ts
 
 🛠️ Yayın Teknik Özellikleri
 Senin sistem verilerine ve OBS ayarlarına dayanarak bu teknik detayları eklemek güven verir:
