@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=6300000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2",NAME="1080p SiriusHD"
-https://1a-1791.com/video/fwe2/97/s8/2/4/S/M/6/4SM6z.Eaa.rec.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=10798763520-10798956406
+#EXT-X-STREAM-INF:BANDWIDTH=7300000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2",NAME="1080p SiriusHD"
+http://1a-1791.com/live/t5qc33px/slot-105/gzhd-14eg_1080p/chunklist.m3u8
