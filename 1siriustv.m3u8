@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=5500000,RESOLUTION=1920x1080,FRAME-RATE=29.970,CODECS="avc1.640028,mp4a.40.2",NAME="1080p SiriusHD"
-https://s.catcast.tv/content/48023/index.m3u8?token=2e124dad8178a14d71c42d701df1ac15
+http://162.212.179.32/akamaissh101/ssh101/siriushdtv/chunks.m3u8
