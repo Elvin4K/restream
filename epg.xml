@@ -2,17 +2,16 @@
 <tv>
   <channel id="SiriusHDTV">
     <display-name>Sirius HD TV</display-name>
+    <display-name>SİRİUS HD TV (Vip)</display-name>
   </channel>
 
-  <!-- 18:22 - 19:00 | LATINO RUZGARI -->
-  <programme start="20261009182200 +0400" stop="20261009190000 +0400" channel="SiriusHDTV">
+  <programme start="20261009180000 +0400" stop="20261009200000 +0400" channel="SiriusHDTV">
     <title lang="tr">LATINO RUZGARI</title>
     <desc lang="tr">En sevilen Latino müzikleri ve klipleri.</desc>
   </programme>
 
-  <!-- 19:00 - 20:00 | BELGESEL -->
-  <programme start="20261009190000 +0400" stop="20261009200000 +0400" channel="SiriusHDTV">
-    <title lang="tr">BELGESEL</title>
-    <desc lang="tr">Sirius HD TV belgesel kuşağı.</desc>
+  <programme start="20261009200000 +0400" stop="20261009220000 +0400" channel="SiriusHDTV">
+    <title lang="tr">BELGESEL KUŞAĞI</title>
+    <desc lang="tr">Sirius HD TV özel belgesel yayını.</desc>
   </programme>
 </tv>
