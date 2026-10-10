@@ -8,12 +8,12 @@
   </channel>
 
   <!-- Saat Dilimi: +0400 (Bakı) -->
-  <programme start="20261009200000 +0400" stop="20261009220000 +0400" channel="SiriusHDTV">
+  <programme start="20261010131000 +0400" stop="20261010150000 +0400" channel="SiriusHDTV">
     <title lang="tr">SINEMA KEYFI</title>
     <desc lang="tr">En sevilen Latino müzikleri ve klipleri Sirius HD TV ekranlarında.</desc>
   </programme>
 
-  <programme start="20261009235500 +0400" stop="20261009235900 +0400" channel="SiriusHDTV">
+  <programme start="20261010155500 +0400" stop="20261010202500 +0400" channel="SiriusHDTV">
     <title lang="tr">IYI GECELER</title>
     <desc lang="tr">Özel belgesel yayın akışı.</desc>
   </programme>
