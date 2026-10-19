@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Sirius Online EPG" source-info-name="Sirius Online">
+  <!--
+    SIRIUS ONLINE EPG - DUZENLENEBILIR YAYIN AKISI SABLONU
+    Tarih: 20.10.2026 08:00 - 21.10.2026 03:25 (Azerbaycan saati UTC+4)
+
+    KULLANIM:
+    1. Her programme kaydindaki [FILM ADINI BURAYA YAZIN] metnini film/program adi ile degistirin.
+    2. Isterseniz desc alanina aciklama yazin.
+    3. Farkli bir gun icin kullanirken start ve stop tarihlerindeki YYYYMMDD kisimlarini degistirin.
+    4. Kanal kimligi SiriusHDTV olarak birakilmistir; M3U dosyanizdaki tvg-id de ayni olmalidir.
+  -->
+
+  <channel id="SiriusHDTV">
+    <display-name lang="tr">Sirius Online</display-name>
+    <display-name lang="tr">Sirius HD TV</display-name>
+  </channel>
+
+  <programme start="20261020080000 +0400" stop="20261020100000 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 1]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261020100000 +0400" stop="20261020120000 +0400" channel="SiriusHDTV">
+    <title lang="tr">TURKCE 90-00</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261020120000 +0400" stop="20261020140000 +0400" channel="SiriusHDTV">
+    <title lang="tr">TURKCE MUZIK</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261020140000 +0400" stop="20261020160000 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 4]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261020160000 +0400" stop="20261020180000 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 5]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261020180000 +0400" stop="20261020200000 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 6]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261020200000 +0400" stop="20261020220000 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 7]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261020220000 +0400" stop="20261021000000 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 8]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261021000000 +0400" stop="20261021020000 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 9]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+
+  <programme start="20261021020000 +0400" stop="20261021032500 +0400" channel="SiriusHDTV">
+    <title lang="tr">[FILM ADINI BURAYA YAZIN - 10]</title>
+    <desc lang="tr">Sirius Online yayin akisi.</desc>
+    <category lang="tr">Film</category>
+  </programme>
+</tv>
