@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080,FRAME-RATE=30.000,CODECS="avc1.640028,mp4a.40.2",NAME="1080p GəncəTVHD"
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GeKlQah1nzqTcEV4AL3P_oQPWJitg-Qjm2GDFoJGuIXx-FjJ385Qz58WfBXfbInlLG9yNWkZ3Kkg-sisZA_pqg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
+https://raw.githubusercontent.com/Elvin4K/hls_hdtv1_20/refs/heads/main/partgc1.m3u8
